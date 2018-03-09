@@ -6,6 +6,6 @@ Just a simple http server that receives POST requests on / and prints the body o
     uwsgi --ini uwsgi.ini
 
 
-Docker container available at (https://hub.docker.com/r/bscm/webhook_server/)
+Docker container available at https://hub.docker.com/r/bscm/webhook_server/
 
 
