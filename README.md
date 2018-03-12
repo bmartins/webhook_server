@@ -1,7 +1,7 @@
 # Webhook server
 
 
-Just a simple http server that receives POST requests on / and prints the body of the request, runs on port 8001
+Just a simple http server that receives POST requests on any path and prints the requested url and body,  runs on port 8001
 
     uwsgi --ini uwsgi.ini
 
